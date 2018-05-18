@@ -69,7 +69,6 @@
 
 #news
 {	
-	float: left;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
@@ -84,6 +83,7 @@
 	background-clip: padding-box;
 	opacity: 0.83;
 }
+
 
 #footer
 {
